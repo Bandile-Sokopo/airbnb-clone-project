@@ -38,7 +38,7 @@ Bookings Make, update, and manage bookings, including check-in and check-out det
 Payments Handle payment transactions related to bookings.
 Reviews Post and manage reviews for properties.
 
-# Features Overview:
+# Feature Breakdown:
 
 1. API Documentation
 OpenAPI Standard: The backend APIs are documented using the OpenAPI standard to ensure clarity and ease of integration.
